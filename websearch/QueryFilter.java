@@ -1,6 +1,3 @@
-public class QueryFilter {
-    
-}
 /**
  * Estratégia de filtro de consulta.
  * O modelo de busca só conhece esta interface, nunca as implementações.
